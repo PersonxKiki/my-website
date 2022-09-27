@@ -171,10 +171,16 @@ img {
 
     .profile-container {
         display: block;
+        gap: 20px;
     }
 
     .profile {
-        margin: 0 auto;
+        width: 100%;
+    }
+
+    p {
+        display: block;
+        width: 100%;
     }
 
     ul {
